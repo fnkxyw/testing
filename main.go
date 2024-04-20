@@ -36,7 +36,7 @@ func trying(v Voicer, writer io.Writer) error {
 func main() {
 	d := Duck{
 		name: "John",
-		age:  15,
+		age:  13,
 	}
 	j := Jaba{
 		name:  "Lena",
